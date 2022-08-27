@@ -1,19 +1,14 @@
 ![](https://img.shields.io/badge/Microverse-blueviolet)
 
-# Project Name
+# Animated Navigation Bar with CSS & HTML
 
-> Description the project.
+> Animated Navigation Bar.
 
 
-## Built With
+## VScode, html , css
 
-- Major languages
-- Frameworks
-- Technologies used
+- visual studio
 
-## Live Demo (if available)
-
-[Live Demo Link](https://livedemo.com)
 
 
 ## Getting Started
@@ -24,7 +19,8 @@
 
 To get a local copy up and running follow these simple example steps.
 
-### Prerequisites
+### Prerequisite
+install Visual studio 
 
 ### Setup
 
